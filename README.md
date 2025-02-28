@@ -83,6 +83,8 @@ To get started with **StoreIt**, follow these steps:
 ### 1. Clone this repository
 
 ```bash
+git clone https://github.com/sriny5445/StoreIt2.git
+cd StoreIt2
 ```
 
 ### 2. Install Dependencies
@@ -135,14 +137,10 @@ Now, open your browser and visit `http://localhost:3000` to see your app in acti
 
 For any queries, feel free to reach out to us:
 
-- Email: [your-email@example.com](mailto:bs9222968@example.com)
-- GitHub: [your-username](https://github.com/Bishu-21)
+- Email: [Bishal Sarkar](mailto:bs9222968@example.com)
+- GitHub: [Bishu-21](https://github.com/Bishu-21)
 
 ---
-
-## 🎨 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
